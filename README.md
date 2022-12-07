@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamesjshaw
+- 👋 Hi, I’m James
 - 👀 I'm a big music fan and claim to have the most eclectic taste of anybody (I definitely do) and have recently got the running bug. I will try and talk about it within 5 minutes of meeting anybody
 - 🌱 I’m currently learning software development - 
 - 💞️ I’m looking for my first apprentice/junior role
